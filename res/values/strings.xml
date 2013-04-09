@@ -402,6 +402,10 @@
 
     <!-- The default vibrateWhen value, when none is set -->
     <string name="prefDefault_vibrateWhen" translatable="false">never</string>
+
+    <!-- Settings screen, what to display for Ringtone when the user chooses "silent" [CHAR LIMIT=100]-->
+    <string name="silent_ringtone">Silent</string>
+
     <!-- The value to use when migrating from old versions for a true vibrate setting -->
     <string name="prefDefault_vibrate_true" translatable="false">always</string>
     <!-- The value to use when migrating from old versions for a false vibrate setting -->
